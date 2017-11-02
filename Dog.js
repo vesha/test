@@ -3,5 +3,5 @@ class Dog {
 }
 
 class Cat {
-  toStrng = () => 'dog';
+  toStrng = () => 'cat';
 }
